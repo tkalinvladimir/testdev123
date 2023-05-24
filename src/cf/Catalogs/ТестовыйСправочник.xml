@@ -175,6 +175,32 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Attribute>
+			<TabularSection uuid="40498e30-3081-48bf-b2ed-786c28d39ee2">
+				<InternalInfo>
+					<xr:GeneratedType name="CatalogTabularSection.ТестовыйСправочник.ТЧ" category="TabularSection">
+						<xr:TypeId>f18f8c7e-f121-4c46-80b2-6fd4feae1e80</xr:TypeId>
+						<xr:ValueId>a1705d5a-4ba8-45ac-a16c-f557637bf23c</xr:ValueId>
+					</xr:GeneratedType>
+					<xr:GeneratedType name="CatalogTabularSectionRow.ТестовыйСправочник.ТЧ" category="TabularSectionRow">
+						<xr:TypeId>8f3f8dcd-f2ad-4884-8b8a-9f7cef9a036d</xr:TypeId>
+						<xr:ValueId>70632508-5322-4f3c-9b1e-3a34b8c153fa</xr:ValueId>
+					</xr:GeneratedType>
+				</InternalInfo>
+				<Properties>
+					<Name>ТЧ</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>ТЧ</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+					<ToolTip/>
+					<FillChecking>DontCheck</FillChecking>
+					<Use>ForItem</Use>
+				</Properties>
+				<ChildObjects/>
+			</TabularSection>
 		</ChildObjects>
 	</Catalog>
 </MetaDataObject>
